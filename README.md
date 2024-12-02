@@ -11,6 +11,14 @@ Beyond component selection, Server Builder GPT excels in optimizing server desig
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Sci-PC](https://github.com/sourceduty/Sci-PC)
+<br>
+[Hardware Simulator](https://github.com/sourceduty/Hardware_Simulator)
+<br>
+[Pi-PC_Case](https://github.com/sourceduty/Pi-PC_Case)
+<br>
+[Computer Upgrade](https://github.com/sourceduty/Computer_Upgrade)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
