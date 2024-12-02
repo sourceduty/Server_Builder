@@ -8,6 +8,33 @@
 Beyond component selection, Server Builder GPT excels in optimizing server designs for critical factors like power efficiency, thermal management, and budget constraints. It provides detailed reports, including performance benchmarks, power consumption analyses, and thermal profiles, to aid in decision-making. By simulating server performance under diverse conditions, this tool helps predict real-world outcomes, reducing risks associated with hardware choices. Whether for enterprises designing cutting-edge cloud infrastructures or engineers refining server builds for sustainability, Server Builder GPT bridges the gap between innovation and practicality.
 
 #
+### Server Sizes
+
+Server hardware scales across interconnected layers, starting from basic components and extending to large-scale data centers. At the component level, individual hardware elements like CPUs, memory modules, and storage drives form the foundation. These are integrated into functional units at the module level, including motherboards, RAID setups, or GPU accelerators. These modules come together to build individual servers at the node level, each designed for standalone operation or as part of a cluster. At the rack level, multiple nodes are organized into physical racks with shared power, cooling, and networking infrastructure. Finally, the data center level brings together racks into a cohesive, high-performance environment with advanced energy and thermal management systems, enabling large-scale enterprise or cloud operations.
+
+```
+Data Center Level
+│
+Racks of Servers, Cooling Systems, Power Distribution, Networking
+│
+Rack Level
+│
+Multiple Server Nodes, Shared Networking, Power Management
+│
+Node Level
+│
+Individual Servers, Redundant Power, Storage, Network Interfaces
+│
+Module Level
+│
+Motherboards, RAID Arrays, GPU Accelerators, Network Cards
+│
+Component Level
+│
+CPUs, RAM, Storage Drives, Fans, Power Supplies
+```
+
+#
 ### Racked Stacks
 
 Racks and stacks are organizational systems commonly used in technology and architecture to manage spatial layouts, equipment, or resources. A rack typically refers to a vertical framework designed to hold equipment or components in a standardized arrangement. For instance, server racks in data centers hold networking equipment, servers, and storage devices in a compact, space-efficient way, allowing easy access for maintenance or upgrades. Racks prioritize accessibility, modularity, and scalability, as new components can be slotted into designated spaces without disrupting the existing setup. Their topological arrangement focuses on aligning multiple elements vertically, often with consideration for airflow, cable management, and load balancing.
