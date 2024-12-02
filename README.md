@@ -1,4 +1,4 @@
-![S](https://github.com/user-attachments/assets/28716556-0ee1-4d2d-89e5-5b72c7968a86)
+![Servers](https://github.com/user-attachments/assets/28716556-0ee1-4d2d-89e5-5b72c7968a86)
 
 > Design, engineer and simulate server hardware.
 #
